@@ -1,3 +1,3 @@
 # Аттрактор Лоренца
 
-![Аттрактор Лоренца](\parallel-computing\System-Runge-Kutta\graph_img.phg)
+![Аттрактор Лоренца](\parallel-computing\System-Runge-Kutta\Lorentz_graph.phg)
